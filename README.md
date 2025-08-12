@@ -1,2 +1,2 @@
-# mantenimiento_preventivo
-Este es un repositorio sobre el mantenimiento preventivo de máquinas 
+# mantenimiento_predictivo
+Este es un repositorio sobre el mantenimiento predictivo de máquinas 
